@@ -10,6 +10,16 @@ https://www.mixinglessons.com/mic-line-instrument-level/
 
 https://sound-au.com/articles/guitar-voltage.htm
 
+https://www.guitarworld.com/features/active-vs-passive-pickups
+
+https://www.utmel.com/components/tl074-operational-amplifier-design-guide-jfet-input-audio-industrial-applications?id=7768
+
+https://www.utmel.com/components/opa2134-vs-ne5532-how-to-differentiate-the-opa2134-and-ne5532?id=1685
+
+https://hackaday.io/page/11952-ne5532-vs-tl072-what-is-the-difference
+
+https://www.ti.com/lit/an/snoa664/snoa664.pdf
+
 https://www.electrosmash.com/emg81 // No lo leí xd Solo para chismear como se genera la señal de la guitarra
 
 
