@@ -7,7 +7,7 @@ https://www.electronics-tutorials.ws/amplifier/amplifier-classes.html
 -----------
 https://www.mixinglessons.com/mic-line-instrument-level/
 https://sound-au.com/articles/guitar-voltage.htm
-https://www.electrosmash.com/emg81 <!-- No lo leí xd Solo para chismear como se genera la señal de la guitarra -->
+https://www.electrosmash.com/emg81 // No lo leí xd Solo para chismear como se genera la señal de la guitarra
 
 
 # Power supply system:
@@ -29,7 +29,7 @@ Sun, C.-C.; Chou, C.-H.; Lin, Y.-L.; Huang, Y.-H. A Cost-Effective Passive/Activ
 https://hosatech.com/press-release/balancing-act/
 
 
-#  PCB fab <!-- No lo leí, la verdad, pero tal vez sirva al momento de diseñar el PCB-->>
+#  PCB fab //No lo leí, la verdad, pero tal vez sirva al momento de diseñar el PCB
 --------------------------
 https://www.proto-electronics.com/blog/top-5-rules-pcb-noise-reduction
 https://www.analog.com/en/resources/technical-articles/minimize-noise-in-audio-channels-with-smart-pcb-layout.html
