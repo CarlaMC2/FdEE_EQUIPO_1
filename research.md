@@ -1,4 +1,4 @@
-# Amplifier classes:
+<img width="1340" height="571" alt="image" src="https://github.com/user-attachments/assets/2fada4be-c83d-4224-b15b-5a4d333f8bb1" /># Amplifier classes:
 ------
 https://resources.pcb.cadence.com/blog/overview-of-power-amplifier-classes
 
@@ -6,11 +6,17 @@ https://www.electronics-tutorials.ws/amplifier/amplifier-classes.html
 
 # Pre-amp process:
 -----------
+### Teoría:
+
 https://www.mixinglessons.com/mic-line-instrument-level/
 
 https://sound-au.com/articles/guitar-voltage.htm
 
 https://www.guitarworld.com/features/active-vs-passive-pickups
+
+https://www.electrosmash.com/emg81 // No lo leí xd Solo para chismear como se genera la señal de la guitarra
+
+### Opamps:
 
 https://www.utmel.com/components/tl074-operational-amplifier-design-guide-jfet-input-audio-industrial-applications?id=7768
 
@@ -18,9 +24,18 @@ https://www.utmel.com/components/opa2134-vs-ne5532-how-to-differentiate-the-opa2
 
 https://hackaday.io/page/11952-ne5532-vs-tl072-what-is-the-difference
 
+### Circuitos
+
 https://www.ti.com/lit/an/snoa664/snoa664.pdf
 
-https://www.electrosmash.com/emg81 // No lo leí xd Solo para chismear como se genera la señal de la guitarra
+https://www.ti.com/lit/ds/symlink/opa1642-q1.pdf?ts=1775395082149
+
+https://envistiamall.com/blogs/learn/tl072-high-impedance-guitar-amp-microphone-preamp-module-user-manual
+
+https://www.freestompboxes.org/viewtopic.php?t=33898
+
+<img width="1340" height="571" alt="image" src="https://github.com/user-attachments/assets/878cfe46-0adf-48ab-be37-9f4776e33fe7" />
+
 
 
 # Power supply system:
