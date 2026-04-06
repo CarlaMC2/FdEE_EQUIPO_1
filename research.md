@@ -1,4 +1,4 @@
-<img width="1340" height="571" alt="image" src="https://github.com/user-attachments/assets/2fada4be-c83d-4224-b15b-5a4d333f8bb1" /># Amplifier classes:
+# Classes
 ------
 https://resources.pcb.cadence.com/blog/overview-of-power-amplifier-classes
 
